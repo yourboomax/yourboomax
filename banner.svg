@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Dwi Jatmiko profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F1419"/>
+      <stop offset="45%" stop-color="#151C24"/>
+      <stop offset="100%" stop-color="#1A242E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0.5" x2="1" y2="0.5">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.0"/>
+      <stop offset="50%" stop-color="#14B8A6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="35%" r="45%">
+      <stop offset="0%" stop-color="#14B8A6" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#2A3542" stroke-width="1" opacity="0.35"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)"/>
+  <rect width="1280" height="420" fill="url(#glow)"/>
+  <rect x="0" y="318" width="1280" height="2" fill="url(#accent)"/>
+  <g fill="none" stroke="#14B8A6" stroke-width="2.5" opacity="0.45" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M980 110 C980 110 1045 95 1100 110 L1100 210 C1100 255 1055 285 1040 295 C1025 285 980 255 980 210 Z"/>
+    <path d="M1005 160 L1030 185 L1090 125" opacity="0.7"/>
+  </g>
+  <g fill="none" stroke="#94A3B8" stroke-width="2" opacity="0.35" stroke-linecap="round">
+    <path d="M1185 145 L1215 175 L1185 205"/>
+    <path d="M1160 145 L1130 175 L1160 205"/>
+  </g>
+  <text x="72" y="155" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#F1F5F9">Dwi Jatmiko</text>
+  <text x="72" y="198" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" fill="#94A3B8">Programmer · Cybersecurity · Penetration Tester</text>
+  <text x="72" y="250" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" fill="#64748B">Jambi, Indonesia  ·  dwijatmiko.my.id</text>
+  <rect x="72" y="280" width="56" height="4" rx="2" fill="#14B8A6"/>
+</svg>

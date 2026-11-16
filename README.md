@@ -19,6 +19,7 @@
   <a href="https://instagram.com/realmichiko_"><img src="https://img.shields.io/badge/Instagram-realmichiko__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://wa.me/6282276246922"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://github.com/ciptareka-id"><img src="https://img.shields.io/badge/Org-@ciptareka--id-181717?style=for-the-badge&logo=github&logoColor=white" alt="ciptareka-id" /></a>
+  <a href="https://github.com/omnisaku"><img src="https://img.shields.io/badge/Org-@omnisaku-181717?style=for-the-badge&logo=github&logoColor=white" alt="omnisaku" /></a>
 </p>
 
 ---
@@ -28,9 +29,9 @@ I'm a lecturer at Universitas Nurdin Hamzah, a software engineer, and an informa
 Currently finishing a **Master's in Information Systems (M.Kom)** at Universitas Dinamika Bangsa (GPA 3.89), focused on information security and decision support systems, after graduating with a **Bachelor's in Information Systems (S.Kom)** from Universitas Nurdin Hamzah. Day to day I'm mostly in PHP/Laravel, running assessments with security tooling, and shipping digital products end to end.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-3%2B_roles-1b1b18?style=flat-square" alt="3+ roles" />
-  <img src="https://img.shields.io/badge/Projects-7-1b1b18?style=flat-square" alt="7 projects" />
-  <img src="https://img.shields.io/badge/Tech_Stack-92-1b1b18?style=flat-square" alt="92 tech stack" />
+  <img src="https://img.shields.io/badge/Experience-6%2B_roles-1b1b18?style=flat-square" alt="6+ roles" />
+  <img src="https://img.shields.io/badge/Projects-12-1b1b18?style=flat-square" alt="12 projects" />
+  <img src="https://img.shields.io/badge/Tech_Stack-92%2B-1b1b18?style=flat-square" alt="92+ tech stack" />
   <img src="https://img.shields.io/badge/Certifications-11-1b1b18?style=flat-square" alt="11 certifications" />
 </p>
 
@@ -39,7 +40,8 @@ Currently finishing a **Master's in Information Systems (M.Kom)** at Universitas
 - **Web & app development** — websites, web apps, and information systems built to a sensible security standard
 - **Penetration testing** — application and IT infrastructure security testing, finding the gaps before someone else does
 - **Security assessment** — vulnerability analysis, code security audits, and remediation recommendations
-- **Side ventures** — building and running digital products end to end: [Warung Dwi](https://warungdwi.com) (digital store) and WujudKode (IT services / product studio)
+- **Side ventures** — building and running digital products end to end: [Warung Dwi](https://warungdwi.com), [Omnisaku](https://github.com/omnisaku), Dwigital (digital commerce) and WujudKode (IT services / product studio)
+- **Civic tech** — founding and building public-service systems with university teams for the Jambi Smart City Application Challenge 2026
 
 ---
 
@@ -47,15 +49,30 @@ Currently finishing a **Master's in Information Systems (M.Kom)** at Universitas
 
 | Project | Role | Summary | Link |
 | --- | --- | --- | --- |
+| **Omnisaku** | Founder & Full-stack Developer | Japanese-themed digital commerce platform (Laravel 12 · Tailwind 4) — premium accounts, game top-up, social media services & PPOB, member wallet + tiered reseller pricing, affiliate commissions & withdrawals, flash sales, refund flow, support desk, Gemini AI assistant, public REST API with keys & webhooks, QRIS + Binance Pay/USDT | [@omnisaku](https://github.com/omnisaku) |
 | **Warung Dwi** | Owner & Full-stack Developer | Premium digital store (Laravel 13 + PHP 8.5) — WhatsApp checkout, dual payment QRIS/USDT, dynamic catalog, admin CMS, bilingual ID/EN | [warungdwi.com](https://warungdwi.com) |
-| **WujudKode** | Owner & Developer | IT services studio — helping businesses and professionals build digital products that make sense for both the team and the users | — |
+| **Dwigital** | Co-founder & Developer | Game top-up, digital vouchers & PPOB — Digiflazz/VIPReseller/Buzzerpanel integrations, flash sales, transaction lookup, standalone landing, multi payment including QRIS | [dwigital.id](https://dwigital.id) · [@ciptareka-id](https://github.com/ciptareka-id) |
 | **Breachly** | Founder & Full-stack Developer | CTF & cybersecurity lab platform — 176 live labs, 490 challenges, 20+ categories across web, API, cloud, Active Directory, blue team & DFIR, on 9 isolated Docker servers | *coming soon* |
-| **ToeflLab** | Owner & Full-stack Developer | Free online TOEFL practice — Structure, Reading, Listening, skill diagnostics, timed labs, score estimation, leaderboard | [toefllab.my.id](https://toefllab.my.id) |
-| **Dwigital** | Co-founder & Developer | Game top-up, digital vouchers & PPOB — full product catalog, flash sales, transaction check, multi payment including QRIS | [dwigital.id](https://dwigital.id) |
+| **ToeflLab** | Owner & Full-stack Developer | Free online TOEFL ITP practice — Structure, Reading, Listening, skill diagnostics, timed labs, 140-question full test, score estimation, leaderboard | [toefllab.my.id](https://toefllab.my.id) |
+| **RANTARA** | Founder & Developer | Digital waste bank for Jambi Smart City Challenge 2026 — Laravel + React 19 PWA, five roles, tamper-proof point ledger, pickup & weighing flow with photo evidence, Gemini-assisted material check, government analytics dashboard | *prototype* |
+| **Jambi Bus Kito** | Founder & Developer | Live tracking & ETA for the Trans Bahagia electric bus (Laravel 13 · Filament 5 · Reverb · Leaflet) — realtime positions, nearest-stop ETA, web push reminders, delay reports, GTFS open data, "Angso" AI chat assistant, screen-reader & voice navigation | *prototype* |
+| **Eberkah** | Founder & Developer | Islamic boarding school management system (Laravel 11) — student records, regional masters, user & menu management, public front page with articles and gallery, PDF/Excel exports, QR | [@ciptareka-id](https://github.com/ciptareka-id) |
+| **WujudKode** | Owner & Developer | IT services studio — helping businesses and professionals build digital products that make sense for both the team and the users | — |
+| **Fuzzy BWM–TOPSIS DSS** | Researcher & Developer | Decision support system for laboratory assistant selection — Fuzzy BWM + Fuzzy TOPSIS with sensitivity analysis and Monte Carlo simulation (Laravel + MySQL), published in SINTA 2 | *research* |
 | **PTA Jambi** | Security Assessor | Vulnerability assessment & remediation report for an institutional website (OWASP methodology) | — |
 | **Hospital Information System** | Programmer | Enterprise hospital information system (confidential client) | — |
 
 Some client work stays private for confidentiality reasons.
+
+---
+
+### 🏢 Organizations
+
+| Org | What it is | Repositories |
+| --- | --- | --- |
+| [**@omnisaku**](https://github.com/omnisaku) | Japanese-themed digital commerce venture — premium accounts, game top-up, social media services & PPOB on one Laravel platform | `omnisaku` (storefront, member & reseller system, admin panel, public API) |
+| [**@ciptareka-id**](https://github.com/ciptareka-id) | Product studio for client and in-house systems | `toko-dwigital` (Dwigital commerce platform), `eberkah` (boarding school management), `Toko-Digital` |
+
 
 ---
 
@@ -97,6 +114,12 @@ Some client work stays private for confidentiality reasons.
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black" alt="Filament" />
+  <img src="https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Reverb" />
+  <img src="https://img.shields.io/badge/Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Sanctum" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
 </p>
 
 **Database**
@@ -151,6 +174,11 @@ Some client work stays private for confidentiality reasons.
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/QRIS-E4002B?style=for-the-badge&logoColor=white" alt="QRIS" />
+  <img src="https://img.shields.io/badge/Binance_Pay-F0B90B?style=for-the-badge&logo=binance&logoColor=black" alt="Binance Pay" />
+  <img src="https://img.shields.io/badge/Web_Push-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Push" />
+  <img src="https://img.shields.io/badge/GTFS-0F9D58?style=for-the-badge&logo=googlemaps&logoColor=white" alt="GTFS" />
 </p>
 
 The full, always up to date **92-item stack** — grouped exactly as above — lives on my portfolio: **[dwijatmiko.my.id](https://dwijatmiko.my.id/#skills)**
@@ -173,7 +201,9 @@ The full, always up to date **92-item stack** — grouped exactly as above — l
 - **Lecturer** — Universitas Nurdin Hamzah, Jambi *(Sep 2026 – Present, part-time, hybrid)*
 - **Information Technology Specialist** — Kementerian Haji dan Umrah Provinsi Jambi *(Aug 2026 – Present, seasonal, hybrid)*
 - **Owner** — Warung Dwi *(2026 – Present, Jambi / Remote)*
+- **Founder** — Omnisaku *(2026 – Present, Jambi / Remote)*
 - **Co-Founder** — Dwigital *(2025 – Present, Jambi)*
+- **Founder & Lead Developer** — RANTARA and Jambi Bus Kito, Jambi Smart City Application Challenge 2026 *(2026)*
 - **Programmer** — Rumah Sakit Baiturrahim, Jambi *(Jan – Jun 2025, on-site)*
 - **Vulnerability Assessment** — PTA Jambi *(2025)*
 
@@ -199,7 +229,7 @@ Full list of 11 certifications: **[dwijatmiko.my.id/#certifications](https://dwi
 ### 📍 A bit of context
 
 - 📍 Based in **Jambi, Indonesia** · open to remote / freelance work
-- 🏢 GitHub organization: [@ciptareka-id](https://github.com/ciptareka-id)
+- 🏢 GitHub organizations: [@omnisaku](https://github.com/omnisaku) · [@ciptareka-id](https://github.com/ciptareka-id)
 - ✉️ **dwijatmiko090@gmail.com** · 📱 [+62 822-7624-6922](https://wa.me/6282276246922)
 
 For the full profile, services, and visual portfolio: **[dwijatmiko.my.id](https://dwijatmiko.my.id)**

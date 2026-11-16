@@ -51,12 +51,12 @@ Currently finishing a **Master's in Information Systems (M.Kom)** at Universitas
 | --- | --- | --- | --- |
 | **Omnisaku** | Founder & Full-stack Developer | Japanese-themed digital commerce platform (Laravel 12 · Tailwind 4) — premium accounts, game top-up, social media services & PPOB, member wallet + tiered reseller pricing, affiliate commissions & withdrawals, flash sales, refund flow, support desk, Gemini AI assistant, public REST API with keys & webhooks, QRIS + Binance Pay/USDT | [@omnisaku](https://github.com/omnisaku) |
 | **Warung Dwi** | Owner & Full-stack Developer | Premium digital store (Laravel 13 + PHP 8.5) — WhatsApp checkout, dual payment QRIS/USDT, dynamic catalog, admin CMS, bilingual ID/EN | [warungdwi.com](https://warungdwi.com) |
-| **Dwigital** | Co-founder & Developer | Game top-up, digital vouchers & PPOB — Digiflazz/VIPReseller/Buzzerpanel integrations, flash sales, transaction lookup, standalone landing, multi payment including QRIS | [dwigital.id](https://dwigital.id) · [@ciptareka-id](https://github.com/ciptareka-id) |
+| **Dwigital** | Founder & Full-stack Developer | Game top-up, digital vouchers & PPOB — Digiflazz/VIPReseller/Buzzerpanel integrations, flash sales, transaction lookup, standalone landing, multi payment including QRIS | [dwigital.id](https://dwigital.id) · [@ciptareka-id](https://github.com/ciptareka-id) |
 | **Breachly** | Founder & Full-stack Developer | CTF & cybersecurity lab platform — 176 live labs, 490 challenges, 20+ categories across web, API, cloud, Active Directory, blue team & DFIR, on 9 isolated Docker servers | *coming soon* |
 | **ToeflLab** | Owner & Full-stack Developer | Free online TOEFL ITP practice — Structure, Reading, Listening, skill diagnostics, timed labs, 140-question full test, score estimation, leaderboard | [toefllab.my.id](https://toefllab.my.id) |
-| **RANTARA** | Founder & Developer | Digital waste bank for Jambi Smart City Challenge 2026 — Laravel + React 19 PWA, five roles, tamper-proof point ledger, pickup & weighing flow with photo evidence, Gemini-assisted material check, government analytics dashboard | *prototype* |
-| **Jambi Bus Kito** | Founder & Developer | Live tracking & ETA for the Trans Bahagia electric bus (Laravel 13 · Filament 5 · Reverb · Leaflet) — realtime positions, nearest-stop ETA, web push reminders, delay reports, GTFS open data, "Angso" AI chat assistant, screen-reader & voice navigation | *prototype* |
-| **Eberkah** | Founder & Developer | Islamic boarding school management system (Laravel 11) — student records, regional masters, user & menu management, public front page with articles and gallery, PDF/Excel exports, QR | [@ciptareka-id](https://github.com/ciptareka-id) |
+| **RANTARA** | Founder & Full-stack Developer | Digital waste bank for Jambi Smart City Challenge 2026 — Laravel + React 19 PWA, five roles, tamper-proof point ledger, pickup & weighing flow with photo evidence, Gemini-assisted material check, government analytics dashboard | *prototype* |
+| **Jambi Bus Kito** | Founder & Full-stack Developer | Live tracking & ETA for the Trans Bahagia electric bus (Laravel 13 · Filament 5 · Reverb · Leaflet) — realtime positions, nearest-stop ETA, web push reminders, delay reports, GTFS open data, "Angso" AI chat assistant, screen-reader & voice navigation | *prototype* |
+| **Eberkah** | Founder & Full-stack Developer | Islamic boarding school management system (Laravel 11) — student records, regional masters, user & menu management, public front page with articles and gallery, PDF/Excel exports, QR | [@ciptareka-id](https://github.com/ciptareka-id) |
 | **WujudKode** | Owner & Developer | IT services studio — helping businesses and professionals build digital products that make sense for both the team and the users | — |
 | **Fuzzy BWM–TOPSIS DSS** | Researcher & Developer | Decision support system for laboratory assistant selection — Fuzzy BWM + Fuzzy TOPSIS with sensitivity analysis and Monte Carlo simulation (Laravel + MySQL), published in SINTA 2 | *research* |
 | **PTA Jambi** | Security Assessor | Vulnerability assessment & remediation report for an institutional website (OWASP methodology) | — |
@@ -202,7 +202,7 @@ The full, always up to date **92-item stack** — grouped exactly as above — l
 - **Information Technology Specialist** — Kementerian Haji dan Umrah Provinsi Jambi *(Aug 2026 – Present, seasonal, hybrid)*
 - **Owner** — Warung Dwi *(2026 – Present, Jambi / Remote)*
 - **Founder** — Omnisaku *(2026 – Present, Jambi / Remote)*
-- **Co-Founder** — Dwigital *(2025 – Present, Jambi)*
+- **Founder** — Dwigital *(2025 – Present, Jambi)*
 - **Founder & Lead Developer** — RANTARA and Jambi Bus Kito, Jambi Smart City Application Challenge 2026 *(2026)*
 - **Programmer** — Rumah Sakit Baiturrahim, Jambi *(Jan – Jun 2025, on-site)*
 - **Vulnerability Assessment** — PTA Jambi *(2025)*

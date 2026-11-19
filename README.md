@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Dwi Jatmiko — Lecturer, Software Engineer, Cybersecurity, Penetration Tester" width="100%" />
+  <img src="./banner.png" alt="Dwi Jatmiko: Lecturer, Software Engineer, Cybersecurity, Penetration Tester" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Dwi Jatmiko 👋</h1>
@@ -24,24 +24,24 @@
 
 ---
 
-I'm a lecturer at Universitas Nurdin Hamzah, a software engineer, and an information systems researcher. I build secure full-stack web applications, run cybersecurity assessments, and publish research indexed in **SINTA 2**. Some days it's the developer hat, some days the security hat — what matters is that the result is clean, usable, and responsible.
+I'm a lecturer at Universitas Nurdin Hamzah, a software engineer, and an information systems researcher. I build secure full-stack web applications, run cybersecurity assessments, and publish research indexed in **SINTA 2**. Some days it's the developer hat, some days the security hat. What matters is that the result is clean, usable, and responsible.
 
 Currently finishing a **Master's in Information Systems (M.Kom)** at Universitas Dinamika Bangsa (GPA 3.89), focused on information security and decision support systems, after graduating with a **Bachelor's in Information Systems (S.Kom)** from Universitas Nurdin Hamzah. Day to day I'm mostly in PHP/Laravel, running assessments with security tooling, and shipping digital products end to end.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-6%2B_roles-1b1b18?style=flat-square" alt="6+ roles" />
+  <img src="https://img.shields.io/badge/Experience-8%2B_roles-1b1b18?style=flat-square" alt="8+ roles" />
   <img src="https://img.shields.io/badge/Projects-12-1b1b18?style=flat-square" alt="12 projects" />
-  <img src="https://img.shields.io/badge/Tech_Stack-92%2B-1b1b18?style=flat-square" alt="92+ tech stack" />
+  <img src="https://img.shields.io/badge/Tech_Stack-99%2B-1b1b18?style=flat-square" alt="99+ tech stack" />
   <img src="https://img.shields.io/badge/Certifications-11-1b1b18?style=flat-square" alt="11 certifications" />
 </p>
 
 ### 🛠️ What I do
 
-- **Web & app development** — websites, web apps, and information systems built to a sensible security standard
-- **Penetration testing** — application and IT infrastructure security testing, finding the gaps before someone else does
-- **Security assessment** — vulnerability analysis, code security audits, and remediation recommendations
-- **Side ventures** — building and running digital products end to end: [Warung Dwi](https://warungdwi.com), [Omnisaku](https://github.com/omnisaku), Dwigital (digital commerce) and WujudKode (IT services / product studio)
-- **Civic tech** — founding and building public-service systems with university teams for the Jambi Smart City Application Challenge 2026
+- **Web & app development**: websites, web apps, and information systems built to a sensible security standard
+- **Penetration testing**: application and IT infrastructure security testing, finding the gaps before someone else does
+- **Security assessment**: vulnerability analysis, code security audits, and remediation recommendations
+- **Side ventures**: building and running digital products end to end: [Warung Dwi](https://warungdwi.com), [Omnisaku](https://github.com/omnisaku), Dwigital (digital commerce) and WujudKode (IT services / product studio)
+- **Civic tech**: founding and building public-service systems with university teams for the Jambi Smart City Application Challenge 2026
 
 ---
 
@@ -49,18 +49,18 @@ Currently finishing a **Master's in Information Systems (M.Kom)** at Universitas
 
 | Project | Role | Summary | Link |
 | --- | --- | --- | --- |
-| **Omnisaku** | Founder & Full-stack Developer | Japanese-themed digital commerce platform (Laravel 12 · Tailwind 4) — premium accounts, game top-up, social media services & PPOB, member wallet + tiered reseller pricing, affiliate commissions & withdrawals, flash sales, refund flow, support desk, Gemini AI assistant, public REST API with keys & webhooks, QRIS + Binance Pay/USDT | [@omnisaku](https://github.com/omnisaku) |
-| **Warung Dwi** | Owner & Full-stack Developer | Premium digital store (Laravel 13 + PHP 8.5) — WhatsApp checkout, dual payment QRIS/USDT, dynamic catalog, admin CMS, bilingual ID/EN | [warungdwi.com](https://warungdwi.com) |
-| **Dwigital** | Founder & Full-stack Developer | Game top-up, digital vouchers & PPOB — Digiflazz/VIPReseller/Buzzerpanel integrations, flash sales, transaction lookup, standalone landing, multi payment including QRIS | [dwigital.id](https://dwigital.id) · [@ciptareka-id](https://github.com/ciptareka-id) |
-| **Breachly** | Founder & Full-stack Developer | CTF & cybersecurity lab platform — 176 live labs, 490 challenges, 20+ categories across web, API, cloud, Active Directory, blue team & DFIR, on 9 isolated Docker servers | *coming soon* |
-| **ToeflLab** | Owner & Full-stack Developer | Free online TOEFL ITP practice — Structure, Reading, Listening, skill diagnostics, timed labs, 140-question full test, score estimation, leaderboard | [toefllab.my.id](https://toefllab.my.id) |
-| **RANTARA** | Founder & Full-stack Developer | Digital waste bank for Jambi Smart City Challenge 2026 — Laravel + React 19 PWA, five roles, tamper-proof point ledger, pickup & weighing flow with photo evidence, Gemini-assisted material check, government analytics dashboard | *prototype* |
-| **Jambi Bus Kito** | Founder & Full-stack Developer | Live tracking & ETA for the Trans Bahagia electric bus (Laravel 13 · Filament 5 · Reverb · Leaflet) — realtime positions, nearest-stop ETA, web push reminders, delay reports, GTFS open data, "Angso" AI chat assistant, screen-reader & voice navigation | *prototype* |
-| **Eberkah** | Founder & Full-stack Developer | Islamic boarding school management system (Laravel 11) — student records, regional masters, user & menu management, public front page with articles and gallery, PDF/Excel exports, QR | [@ciptareka-id](https://github.com/ciptareka-id) |
-| **WujudKode** | Owner & Developer | IT services studio — helping businesses and professionals build digital products that make sense for both the team and the users | — |
-| **Fuzzy BWM–TOPSIS DSS** | Researcher & Developer | Decision support system for laboratory assistant selection — Fuzzy BWM + Fuzzy TOPSIS with sensitivity analysis and Monte Carlo simulation (Laravel + MySQL), published in SINTA 2 | *research* |
-| **PTA Jambi** | Security Assessor | Vulnerability assessment & remediation report for an institutional website (OWASP methodology) | — |
-| **Hospital Information System** | Programmer | Enterprise hospital information system (confidential client) | — |
+| **Omnisaku** | Founder & Full-stack Developer | Japanese-themed digital commerce platform (Laravel 12 · Tailwind 4): premium accounts, game top-up, social media services & PPOB, member wallet + tiered reseller pricing, affiliate commissions & withdrawals, flash sales, refund flow, support desk, Gemini AI assistant, public REST API with keys & webhooks, QRIS + Binance Pay/USDT | [@omnisaku](https://github.com/omnisaku) |
+| **Warung Dwi** | Owner & Full-stack Developer | Premium digital store (Laravel 13 + PHP 8.5): WhatsApp checkout, dual payment QRIS/USDT, dynamic catalog, admin CMS, bilingual ID/EN | [warungdwi.com](https://warungdwi.com) |
+| **Dwigital** | Co-Founder & Full-stack Developer | Game top-up, digital vouchers & PPOB: Digiflazz/VIPReseller/Buzzerpanel integrations, partner REST API with keys, webhooks & OpenAPI spec, white-label reseller storefronts, buyer-origin map, finance & tax reports, website and app development service, multi payment including QRIS and Binance Pay | [dwigital.id](https://dwigital.id) · [@ciptareka-id](https://github.com/ciptareka-id) |
+| **Breachly** | Founder & Full-stack Developer | CTF & cybersecurity lab platform: 176 live labs, 490 challenges, 20+ categories across web, API, cloud, Active Directory, blue team & DFIR, on 9 isolated Docker servers | *coming soon* |
+| **ToeflLab** | Owner & Full-stack Developer | Free online TOEFL ITP practice: Structure, Reading, Listening, skill diagnostics, timed labs, 140-question full test, score estimation, leaderboard | [toefllab.my.id](https://toefllab.my.id) |
+| **RANTARA** | Founder & Full-stack Developer | Digital waste bank for Jambi Smart City Challenge 2026: Laravel + React 19 PWA, five roles, tamper-proof point ledger, pickup & weighing flow with photo evidence, Gemini-assisted material check, government analytics dashboard | *prototype* |
+| **Jambi Bus Kito** | Founder & Full-stack Developer | Live tracking & ETA for the Trans Bahagia electric bus (Laravel 13 · Filament 5 · Reverb · Leaflet): realtime positions, nearest-stop ETA, web push reminders, delay reports, GTFS open data, "Angso" AI chat assistant, screen-reader & voice navigation | *prototype* |
+| **Eberkah** | Founder & Full-stack Developer | Islamic boarding school management system (Laravel 11): student records, regional masters, user & menu management, public front page with articles and gallery, PDF/Excel exports, QR | [@ciptareka-id](https://github.com/ciptareka-id) |
+| **WujudKode** | Owner & Developer | IT services studio: helping businesses and professionals build digital products that make sense for both the team and the users | - |
+| **Fuzzy BWM and TOPSIS DSS** | Researcher & Developer | Decision support system for laboratory assistant selection: Fuzzy BWM + Fuzzy TOPSIS with sensitivity analysis and Monte Carlo simulation (Laravel + MySQL), published in SINTA 2 | *research* |
+| **PTA Jambi** | Security Assessor | Vulnerability assessment & remediation report for an institutional website (OWASP methodology) | - |
+| **Hospital Information System** | Programmer | Enterprise hospital information system (confidential client) | - |
 
 Some client work stays private for confidentiality reasons.
 
@@ -70,7 +70,7 @@ Some client work stays private for confidentiality reasons.
 
 | Org | What it is | Repositories |
 | --- | --- | --- |
-| [**@omnisaku**](https://github.com/omnisaku) | Japanese-themed digital commerce venture — premium accounts, game top-up, social media services & PPOB on one Laravel platform | `omnisaku` (storefront, member & reseller system, admin panel, public API) |
+| [**@omnisaku**](https://github.com/omnisaku) | Japanese-themed digital commerce venture: premium accounts, game top-up, social media services & PPOB on one Laravel platform | `omnisaku` (storefront, member & reseller system, admin panel, public API) |
 | [**@ciptareka-id**](https://github.com/ciptareka-id) | Product studio for client and in-house systems | `toko-dwigital` (Dwigital commerce platform), `eberkah` (boarding school management), `Toko-Digital` |
 
 
@@ -181,7 +181,7 @@ Some client work stays private for confidentiality reasons.
   <img src="https://img.shields.io/badge/GTFS-0F9D58?style=for-the-badge&logo=googlemaps&logoColor=white" alt="GTFS" />
 </p>
 
-The full, always up to date **92-item stack** — grouped exactly as above — lives on my portfolio: **[dwijatmiko.my.id](https://dwijatmiko.my.id/#skills)**
+The full, always up to date **99-item stack**, grouped exactly as above, lives on my portfolio: **[dwijatmiko.my.id](https://dwijatmiko.my.id/#skills)**
 
 ---
 
@@ -198,29 +198,29 @@ The full, always up to date **92-item stack** — grouped exactly as above — l
 
 ### 💼 Experience
 
-- **Lecturer** — Universitas Nurdin Hamzah, Jambi *(Sep 2026 – Present, part-time, hybrid)*
-- **Information Technology Specialist** — Kementerian Haji dan Umrah Provinsi Jambi *(Aug 2026 – Present, seasonal, hybrid)*
-- **Owner** — Warung Dwi *(2026 – Present, Jambi / Remote)*
-- **Founder** — Omnisaku *(2026 – Present, Jambi / Remote)*
-- **Founder** — Dwigital *(2025 – Present, Jambi)*
-- **Founder & Lead Developer** — RANTARA and Jambi Bus Kito, Jambi Smart City Application Challenge 2026 *(2026)*
-- **Programmer** — Rumah Sakit Baiturrahim, Jambi *(Jan – Jun 2025, on-site)*
-- **Vulnerability Assessment** — PTA Jambi *(2025)*
+- **Lecturer**: Universitas Nurdin Hamzah, Jambi *(Sep 2026 - Present, part-time, hybrid)*
+- **Information Technology Specialist**: Kementerian Haji dan Umrah Provinsi Jambi *(Aug 2026 - Present, seasonal, hybrid)*
+- **Owner**: Warung Dwi *(2026 - Present, Jambi / Remote)*
+- **Founder**: Omnisaku *(2026 - Present, Jambi / Remote)*
+- **Co-Founder**: Dwigital *(2025 - Present, Jambi)*
+- **Founder & Lead Developer**: RANTARA and Jambi Bus Kito, Jambi Smart City Application Challenge 2026 *(2026)*
+- **Programmer**: Rumah Sakit Baiturrahim, Jambi *(Jan - Jun 2025, on-site)*
+- **Vulnerability Assessment**: PTA Jambi *(2025)*
 
 ### 🎓 Education & Research
 
-- 🎓 **Master's in Information Systems (M.Kom)** — Universitas Dinamika Bangsa *(Oct 2024 – Nov 2026)*, GPA 3.89, focus on information security & decision support systems
-- 🎓 **Bachelor's in Information Systems (S.Kom)** — Universitas Nurdin Hamzah *(2020 – 2024)*
-- 🏅 Cambridge Assessment Scholarship — University of Cambridge *(2018)*
-- 📄 Publication indexed **SINTA 2** — *"Laboratory Assistant Selection Using Fuzzy BWM and Fuzzy TOPSIS with Sensitivity Analysis and Monte Carlo Simulation"*, Jurnal Teknik Informatika (JUTIF), Vol. 7 No. 4, Aug 2026
+- 🎓 **Master's in Information Systems (M.Kom)**: Universitas Dinamika Bangsa *(Oct 2024 - Nov 2026)*, GPA 3.89, focus on information security & decision support systems
+- 🎓 **Bachelor's in Information Systems (S.Kom)**: Universitas Nurdin Hamzah *(2020 - 2024)*
+- 🏅 Cambridge Assessment Scholarship: University of Cambridge *(2018)*
+- 📄 Publication indexed **SINTA 2**: *"Laboratory Assistant Selection Using Fuzzy BWM and Fuzzy TOPSIS with Sensitivity Analysis and Monte Carlo Simulation"*, Jurnal Teknik Informatika (JUTIF), Vol. 7 No. 4, Aug 2026
 
 ### 📜 Certifications (11 total, highlights below)
 
-- BNSP · LSP Teknologi Digital — **Junior Web Developer** Competency Certificate *(2025)*
-- UNAMA Language Center — **TOEFL Certificate of Achievement**, score 600 *(2026)*
-- Cambridge Assessment English — **ESOL International**, score 100 *(2018)*
-- Universitas Dinamika Bangsa — **M.Kom**, Information Systems *(2026)*
-- Universitas Nurdin Hamzah — **S.Kom**, Information Systems *(2024)*
+- BNSP · LSP Teknologi Digital: **Junior Web Developer** Competency Certificate *(2025)*
+- UNAMA Language Center: **TOEFL Certificate of Achievement**, score 600 *(2026)*
+- Cambridge Assessment English: **ESOL International**, score 100 *(2018)*
+- Universitas Dinamika Bangsa: **M.Kom**, Information Systems *(2026)*
+- Universitas Nurdin Hamzah: **S.Kom**, Information Systems *(2024)*
 
 Full list of 11 certifications: **[dwijatmiko.my.id/#certifications](https://dwijatmiko.my.id/#certifications)**
 
